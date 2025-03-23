@@ -1,0 +1,6 @@
+Netflix-Clone/
+│── index.html
+│── style.css
+│── script.js
+│── images/   (Place movie posters here)
+│── trailers/ (Store video trailers here)
